@@ -1,0 +1,15 @@
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\My practice\mass-practice\bin\Debug\net8.0\mass-practice.exe
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\My practice\mass-practice\bin\Debug\net8.0\mass-practice.deps.json
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\My practice\mass-practice\bin\Debug\net8.0\mass-practice.runtimeconfig.json
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\My practice\mass-practice\bin\Debug\net8.0\mass-practice.dll
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\My practice\mass-practice\bin\Debug\net8.0\mass-practice.pdb
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\My practice\mass-practice\obj\Debug\net8.0\mass-practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\My practice\mass-practice\obj\Debug\net8.0\mass-practice.AssemblyInfoInputs.cache
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\My practice\mass-practice\obj\Debug\net8.0\mass-practice.AssemblyInfo.cs
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\My practice\mass-practice\obj\Debug\net8.0\mass-practice.csproj.CoreCompileInputs.cache
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\My practice\mass-practice\obj\Debug\net8.0\mass-practice.sourcelink.json
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\My practice\mass-practice\obj\Debug\net8.0\mass-practice.dll
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\My practice\mass-practice\obj\Debug\net8.0\refint\mass-practice.dll
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\My practice\mass-practice\obj\Debug\net8.0\mass-practice.pdb
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\My practice\mass-practice\obj\Debug\net8.0\mass-practice.genruntimeconfig.cache
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\My practice\mass-practice\obj\Debug\net8.0\ref\mass-practice.dll

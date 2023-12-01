@@ -1,0 +1,14 @@
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\С# The third sem\Task0\bin\Debug\net8.0\Task0.exe
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\С# The third sem\Task0\bin\Debug\net8.0\Task0.deps.json
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\С# The third sem\Task0\bin\Debug\net8.0\Task0.runtimeconfig.json
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\С# The third sem\Task0\bin\Debug\net8.0\Task0.dll
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\С# The third sem\Task0\bin\Debug\net8.0\Task0.pdb
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\С# The third sem\Task0\obj\Debug\net8.0\Task0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\С# The third sem\Task0\obj\Debug\net8.0\Task0.AssemblyInfoInputs.cache
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\С# The third sem\Task0\obj\Debug\net8.0\Task0.AssemblyInfo.cs
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\С# The third sem\Task0\obj\Debug\net8.0\Task0.csproj.CoreCompileInputs.cache
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\С# The third sem\Task0\obj\Debug\net8.0\Task0.dll
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\С# The third sem\Task0\obj\Debug\net8.0\refint\Task0.dll
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\С# The third sem\Task0\obj\Debug\net8.0\Task0.pdb
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\С# The third sem\Task0\obj\Debug\net8.0\Task0.genruntimeconfig.cache
+C:\Users\legio\OneDrive\Desktop\Всё для учёбы\Знакомство с языками программирования\С# The third sem\Task0\obj\Debug\net8.0\ref\Task0.dll
