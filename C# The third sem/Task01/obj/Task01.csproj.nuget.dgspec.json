@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\legio\\OneDrive\\Desktop\\Всё для учёбы\\Знакомство с языками программирования\\С# The second sem much more\\С# The third sem\\Task01\\Task01.csproj": {}
+    "C:\\Users\\legio\\OneDrive\\Desktop\\Всё для учёбы\\Znakomsto-c-yazikami-programmirovania\\C# The third sem\\Task01\\Task01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\legio\\OneDrive\\Desktop\\Всё для учёбы\\Знакомство с языками программирования\\С# The second sem much more\\С# The third sem\\Task01\\Task01.csproj": {
+    "C:\\Users\\legio\\OneDrive\\Desktop\\Всё для учёбы\\Znakomsto-c-yazikami-programmirovania\\C# The third sem\\Task01\\Task01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\legio\\OneDrive\\Desktop\\Всё для учёбы\\Знакомство с языками программирования\\С# The second sem much more\\С# The third sem\\Task01\\Task01.csproj",
+        "projectUniqueName": "C:\\Users\\legio\\OneDrive\\Desktop\\Всё для учёбы\\Znakomsto-c-yazikami-programmirovania\\C# The third sem\\Task01\\Task01.csproj",
         "projectName": "Task01",
-        "projectPath": "C:\\Users\\legio\\OneDrive\\Desktop\\Всё для учёбы\\Знакомство с языками программирования\\С# The second sem much more\\С# The third sem\\Task01\\Task01.csproj",
+        "projectPath": "C:\\Users\\legio\\OneDrive\\Desktop\\Всё для учёбы\\Znakomsto-c-yazikami-programmirovania\\C# The third sem\\Task01\\Task01.csproj",
         "packagesPath": "C:\\Users\\legio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\legio\\OneDrive\\Desktop\\Всё для учёбы\\Знакомство с языками программирования\\С# The second sem much more\\С# The third sem\\Task01\\obj\\",
+        "outputPath": "C:\\Users\\legio\\OneDrive\\Desktop\\Всё для учёбы\\Znakomsto-c-yazikami-programmirovania\\C# The third sem\\Task01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\legio\\AppData\\Roaming\\NuGet\\NuGet.Config"
