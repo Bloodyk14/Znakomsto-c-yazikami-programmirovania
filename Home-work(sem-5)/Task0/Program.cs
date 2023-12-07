@@ -49,20 +49,12 @@ string GetElementValue(int[,] array, int row, int column)
     }
 }
 
-static int Workwithuser(string message)
-    {
-        Console.Write(message);
-        int number = Convert.ToInt32(Console.ReadLine());
-        return number;
-    }
-
-
 int[,] userArray = GetUserInputArray(3, 3);
 
 PrintArray(userArray); 
 Console.WriteLine();
 
-string elementInfo = GetElementValue(userArray, 3, 3); // Получение информации о значении элемента [1,1]
+string elementInfo = GetElementValue(userArray, 1, 1); // Получение информации о значении элемента [1,1]
 Console.WriteLine(elementInfo); // Вывод результата работы GetElementValue
 
 
