@@ -1,5 +1,5 @@
 ﻿/*Задача 1: Напишите программу, которая на вход принимает позиции элемента в двумерном массиве, 
-и возвращает значение этого элемента или же указание, что такого элемента нет.*/ 
+и возвращает значение этого элемента или же указание, что такого элемента нет.*/
 
 int[,] GetUserInputArray(int rows, int columns)
 {
@@ -51,7 +51,7 @@ string GetElementValue(int[,] array, int row, int column)
 
 int[,] userArray = GetUserInputArray(3, 3);
 
-PrintArray(userArray); 
+PrintArray(userArray);
 Console.WriteLine();
 
 string elementInfo = GetElementValue(userArray, 1, 1); // Получение информации о значении элемента [1,1]
