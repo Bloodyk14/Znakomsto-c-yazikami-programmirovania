@@ -11,9 +11,9 @@ Console.WriteLine(ConverToLower(OriginStr));
 
 string ConverToLower(string input)
 {
-    string result = "";
+    string result = string.Empty;
     
-    foreach (char c in input)
+    foreach (char c in input) 
     {
         result += char.ToLower(c);
     }
